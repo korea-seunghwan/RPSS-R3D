@@ -1,0 +1,2 @@
+pretrained_model/r3d101_K_200ep.pth
+utils/data/video_256x256_last.egg
